@@ -22,3 +22,6 @@ i = 0
 while (i < len(animais)):
   print(animais[i])
   i = i + 1
+
+for animal in animais:
+  print(animais)
